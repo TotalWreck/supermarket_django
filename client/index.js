@@ -1,4 +1,4 @@
-const MY_SERVER = "https://magnificent-crepe-a79df5.netlify.app/";
+const MY_SERVER = "https://glistening-mochi-5b9950.netlify.app/";
 
 const cart = [];
 let products = [];
